@@ -1,0 +1,6 @@
+{
+  "name": "The Purpex",
+  "description": "Professional corporate BPO and IT Solutions platform with corporate service showcases, client inquiries, and Google Drive integrated job application portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

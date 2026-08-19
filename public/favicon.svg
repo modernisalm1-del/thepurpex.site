@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="purpexLogoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#312e81" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+  </defs>
+  <!-- Outer Diamond (Rotated Indigo Square) -->
+  <rect x="14" y="14" width="36" height="36" rx="4" fill="url(#purpexLogoGrad)" transform="rotate(45 32 32)" />
+  <!-- Inner White Square -->
+  <rect x="24" y="24" width="16" height="16" rx="1.5" fill="#ffffff" />
+</svg>
